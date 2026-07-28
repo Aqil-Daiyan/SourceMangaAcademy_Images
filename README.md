@@ -7,5 +7,11 @@ MUST be in the:
   🚨 SAME NAME   
   🚨 SAME FILE EXTENSION  
   🚨 SAME ASPECT RATIO (16:9)
-  
-Don't break shit and come to me crying, I'll charge extra if you do
+
+Naming convention:  
+&nbsp; &nbsp; Six banners around the tree:  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Circle01.jpg ~ Circle06.jpg  
+&nbsp; &nbsp; Four banners around the glass dome:  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dome01.jpg ~ Dome04.jpg  
+      
+Don't break shit and come to me crying.
